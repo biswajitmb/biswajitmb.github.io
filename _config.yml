@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Dr. Biswajit Mondal"
 title_separator          : "-"
-name                     : &name "Biswajit Mondal, PhD"
+name                     : &name "Biswajit Mondal"
 description              : &description "personal description"
 url                      : https://biswajitmb.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Biswajit Mondal"
-  pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "NASA Postdoctoral Program (NPP) Fellow"
   location         : "Huntsville, AL, USA"
-  employer         : "NASA Postdoctoral Program"
+  employer         : #"NASA Postdoctoral Program"
   uri              : # URL
   email            : "biswajit70mondal94@gmail.com" 
 
